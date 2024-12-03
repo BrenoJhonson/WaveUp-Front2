@@ -19,5 +19,5 @@ export const login = (body, navigate) => {
     });
 };
 
-//  "email": "victor@faminas.edu.br",
-// "password": "a1b2c3d4e5"
+//  "email": "carlos.breno@example.com",
+// "password": "23-14305"
