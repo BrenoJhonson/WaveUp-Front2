@@ -2,10 +2,10 @@
   Projeto em Desenvolvido para Conclusao de um Trabalho do 4° Periodo da Faculdade de Analise e Desenvolvimento de Sistemas na Materia de Desenvolvimento Web Front-EndII. Monitorado Pelo Professor [Flavio Motta](https://github.com/FlavioAAMotta).
 
 ## 📘 Índice
-  * Funcionalidades
-  * Ferramentas e Tecnologias Utilizadas
-  * Como rodar o projeto localmente
-  * Colaboradores
+* Funcionalidades
+* Ferramentas e Tecnologias Utilizadas
+* Como rodar o projeto localmente
+* Colaboradores
 
 ## 🚀 Funcionalidades
 1. Login Simulado
@@ -17,29 +17,29 @@
 
 ## 📦 Ferramentas e Tecnologias Utilizadas
 1. Linguagem de Programação
-* JavaScript: Linguagem principal para desenvolvimento frontend, usada para lógica e interatividade.
-* TypeScript: Para adicionar tipagem estática e melhorar a manutenção do código.
+    * JavaScript: Linguagem principal para desenvolvimento frontend, usada para lógica e interatividade.
+    * TypeScript: Para adicionar tipagem estática e melhorar a manutenção do código.
 
 2. Frameworks e Bibliotecas
-* React.js: Biblioteca para criação de interfaces de usuário. Ideal para criar componentes reutilizáveis.
-* React Router: Para gerenciar a navegação entre páginas de forma dinâmica.
+    * React.js: Biblioteca para criação de interfaces de usuário. Ideal para criar componentes reutilizáveis.
+    * React Router: Para gerenciar a navegação entre páginas de forma dinâmica.
 
 3. Ferramentas de Desenvolvimento
-* Node.js: Para executar o ambiente de desenvolvimento local e gerenciar dependências com npm.
-* Create React App: Ferramentas para configurar rapidamente um ambiente React.
+    * Node.js: Para executar o ambiente de desenvolvimento local e gerenciar dependências com npm.
+    * Create React App: Ferramentas para configurar rapidamente um ambiente React.
 
 4. Estilização
-* CSS: Para estilização básica e customizações.
-* Styled Components: Para aplicar estilos diretamente aos componentes React.
+    * CSS: Para estilização básica e customizações.
+    * Styled Components: Para aplicar estilos diretamente aos componentes React.
 
 5. Gerenciamento de Dependências
-* npm ou yarn: Gerenciadores de pacotes para instalar bibliotecas necessárias, como React e React Router.
+    * npm ou yarn: Gerenciadores de pacotes para instalar bibliotecas necessárias, como React e React Router.
 
 6. Navegadores e Testes
-* Google Chrome: Para depuração com as ferramentas de desenvolvedor (DevTools).
+    * Google Chrome: Para depuração com as ferramentas de desenvolvedor (DevTools).
 
 7. Gerenciamento de Projetos
-* GitHub: Controle de versão do códig e Hospedagem do repositório.
+    * GitHub: Controle de versão do códig e Hospedagem do repositório.
 
 
 ## 🛠️ Como rodar o projeto localmente
