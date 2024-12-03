@@ -80,7 +80,6 @@
         </a>
       </td>
     </tr>
-</div>
       <td align="center">
         <a href="https://github.com/VitinDemarque" style="text-decoration: none;">
           <img src="https://avatars.githubusercontent.com/u/126296402?v=4" width="100" height="100" style="border-radius: 50%;">
